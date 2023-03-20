@@ -2,7 +2,8 @@ import React from "react";
 const Test = () => {
     return (
         <div>
-            Hallo Welt!
+            <h1>Test</h1>
+            <button>Click</button>
         </div>
     )
 }
